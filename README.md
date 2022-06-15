@@ -16,11 +16,10 @@ HOW TO IMPLEMENTATION ?
         title="stickyImmersive"
         onPress={async () => {
           const result = await SystemNavigationBar.stickyImmersive();
-
           console.log('stickyImmersive: ', result);
         }}
       />
   
-Thanks..
+Happy coding ^^
 
 
